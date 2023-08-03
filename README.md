@@ -6,7 +6,7 @@
     ──「 sɪᴅʜᴜ X ᴍᴜsɪᴄ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/7b9bfe8d7fbb2589071e3.jpg">
+  <img src="https://te.legra.ph/file/599c00f7d6e81e2a5d70d.jpg">
 </p>
 
 <p align="center">
@@ -64,15 +64,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Iro_m_bot"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_SIDHU_MUSIC_BOT"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/lll_ABOUT_ME_lll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PUNJABI_CHATTING_GRPUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/PUNJABI_CHATTING_GRPUP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/lll_ABOUT_ME_lll"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
