@@ -6,7 +6,7 @@
     ──「 sɪᴅʜᴜ X ᴍᴜsɪᴄ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/599c00f7d6e81e2a5d70d.jpg">
+  <img src="https://te.legra.ph/file/c7885f1484fff79d0797b.jpg">
 </p>
 
 <p align="center">
